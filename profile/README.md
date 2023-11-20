@@ -14,6 +14,5 @@ Our learning method GET will make you learn in a fun and personalized way.
 
 - **G**AMIFICATION: Enjoy our uniquely gamified learning experience!
 - **E**DUCATORS: Learn with micro-lessons from world-class educators!
-- **T**UTORING: Connect with them for a more personalized experience!
 
 ### For more information visit our website: [educup.io](https://educup.io)
