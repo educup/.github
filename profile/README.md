@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://educup.io/images/resource/team/educup-banner.png" width="400"/>
+  <img src="https://educup.io/_amplify/image?url=%2Fimg%2Fstudy%2Fapp-mobile.png&w=1536&q=100" width="400"/>
 </p>
 
 # EducUp
